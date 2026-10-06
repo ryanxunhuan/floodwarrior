@@ -1,6 +1,6 @@
 # FLOODWARRIOR website
 
-Website source for https://github.com/ryanxunhuan/flood-hazard and GitHub Pages
+Website source for https://github.com/ryanxunhuan/floodwarrior and GitHub Pages
 hosting.
 
 ## Preview
@@ -8,7 +8,7 @@ hosting.
 Run `python3 -m http.server 4173 --bind 127.0.0.1` from this directory and open
 http://127.0.0.1:4173. Pages also open directly in a browser. No build or
 installation step is needed. Fonts load from Google Fonts with local fallbacks.
-Internal paths support the eventual `/flood-hazard/` project URL.
+Internal paths support the `/floodwarrior/` project URL.
 
 ## Content and editing
 
@@ -93,4 +93,4 @@ The membership details should be checked before release. Public citation metadat
 Publish only after explicit approval. Remove draft markers, complete the final
 content review, push the approved files, and configure Pages to serve the
 approved branch's root directory. Intended public URL:
-https://ryanxunhuan.github.io/flood-hazard/.
+https://ryanxunhuan.github.io/floodwarrior/.
