@@ -1,0 +1,316 @@
+[
+  {
+    "name": "Xun Huan",
+    "slug": "xun-huan",
+    "role": "Principal Investigator",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "uncertainty-quantification",
+    "photo": "assets/people/xun-huan.jpg",
+    "alum": false,
+    "email": "xhuan@umich.edu"
+  },
+  {
+    "name": "Valeriy Ivanov",
+    "slug": "valeriy-ivanov",
+    "role": "Principal Investigator",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "flood-science",
+    "photo": "assets/people/valeriy-ivanov.jpg",
+    "alum": false,
+    "email": "ivanov@umich.edu"
+  },
+  {
+    "name": "Nikola Banovic",
+    "slug": "nikola-banovic",
+    "role": "Co-Principal Investigator",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-support",
+    "photo": "assets/people/nikola-banovic.jpg",
+    "alum": false,
+    "email": "nbanovic@umich.edu"
+  },
+  {
+    "name": "Richard Gonzalez",
+    "slug": "richard-gonzalez",
+    "role": "Co-Principal Investigator",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/richard-gonzalez.jpg",
+    "alum": false,
+    "email": "gonzo@umich.edu"
+  },
+  {
+    "name": "John P. Ziker",
+    "slug": "john-p-ziker",
+    "role": "Co-Principal Investigator",
+    "role_as_of": "2026-03-30",
+    "institution": "Boise State University",
+    "team_id": "anthropology",
+    "photo": "assets/people/john-p-ziker.jpg",
+    "alum": false,
+    "email": "jziker@boisestate.edu"
+  },
+  {
+    "name": "Francina Dominguez",
+    "slug": "francina-dominguez",
+    "role": "Co-Principal Investigator",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Illinois Urbana-Champaign",
+    "team_id": "atmospheric-science",
+    "photo": "assets/people/francina-dominguez.jpg",
+    "alum": false,
+    "email": "francina@illinois.edu"
+  },
+  {
+    "name": "Chen Cheng",
+    "slug": "chen-cheng",
+    "role": "Postdoctoral Researcher",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "uncertainty-quantification",
+    "photo": "assets/people/chen-cheng.jpg",
+    "alum": true
+  },
+  {
+    "name": "Vinh Ngoc Tran",
+    "slug": "vinh-ngoc-tran",
+    "role": "Research Scientist",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "flood-science",
+    "photo": "assets/people/vinh-ngoc-tran.png",
+    "alum": true,
+    "current_position": "Oak Ridge National Laboratory",
+    "current_position_url": "https://www.ornl.gov/staff/vinh-tran/"
+  },
+  {
+    "name": "Dongwoon Kang",
+    "slug": "dongwoon-kang",
+    "role": "PhD Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "flood-science",
+    "photo": "assets/people/dongwoon-kang.png",
+    "alum": false
+  },
+  {
+    "name": "Snehal Prabhudesai",
+    "slug": "snehal-prabhudesai",
+    "role": "PhD Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-support",
+    "photo": "assets/people/snehal-prabhudesai.jpg",
+    "alum": true,
+    "current_position": "Assistant Professor, Cal Poly, San Luis Obispo",
+    "current_position_url": "https://csc.calpoly.edu/faculty/"
+  },
+  {
+    "name": "Anindya Das Antar",
+    "slug": "anindya-das-antar",
+    "role": "PhD Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-support",
+    "photo": "assets/people/anindya-das-antar.jpg",
+    "alum": true,
+    "current_position": "Postdoctoral Research Scholar, University of Notre Dame",
+    "current_position_url": "https://lucyinstitute.nd.edu/people/the-lucy-family-core-team/postdoctoral-researchers/anindya-das-antar/"
+  },
+  {
+    "name": "Jaewoong Choi",
+    "slug": "jaewoong-choi",
+    "role": "PhD Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-support",
+    "photo": "assets/people/jaewoong-choi.jpg",
+    "alum": false
+  },
+  {
+    "name": "Alicia Carmichael",
+    "slug": "alicia-carmichael",
+    "role": "Research Area Specialist Lead",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/alicia-carmichael.jpg",
+    "alum": false
+  },
+  {
+    "name": "Donna Walter",
+    "slug": "donna-walter",
+    "role": "Project Associate Manager",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/donna-walter.png",
+    "alum": false
+  },
+  {
+    "name": "Brandon Labbree",
+    "slug": "brandon-labbree",
+    "role": "Research Area Specialist Associate",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/brandon-labbree.png",
+    "alum": false
+  },
+  {
+    "name": "Natalie Leonard",
+    "slug": "natalie-leonard",
+    "role": "PhD Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/natalie-leonard.jpg",
+    "alum": false
+  },
+  {
+    "name": "Arya Saboo",
+    "slug": "arya-saboo",
+    "role": "Undergraduate Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/arya-saboo.png",
+    "alum": false
+  },
+  {
+    "name": "Loucas Georgiou",
+    "slug": "loucas-georgiou",
+    "role": "Undergraduate Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Michigan",
+    "team_id": "decision-science",
+    "photo": "assets/people/loucas-georgiou.png",
+    "alum": false
+  },
+  {
+    "name": "Sarah Whitaker",
+    "slug": "sarah-whitaker",
+    "role": "Postdoctoral Fellow",
+    "role_as_of": "2026-03-30",
+    "institution": "Boise State University",
+    "team_id": "anthropology",
+    "photo": "assets/people/sarah-whitaker.png",
+    "alum": false
+  },
+  {
+    "name": "Joseph Nigro",
+    "slug": "joseph-nigro",
+    "role": "Master’s Student",
+    "role_as_of": "2026-03-30",
+    "institution": "Boise State University",
+    "team_id": "anthropology",
+    "photo": "assets/people/joseph-nigro.jpg",
+    "alum": false
+  },
+  {
+    "name": "Brian Jewett",
+    "slug": "brian-jewett",
+    "role": "Research Scientist",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Illinois Urbana-Champaign",
+    "team_id": "atmospheric-science",
+    "photo": "assets/people/brian-jewett.jpg",
+    "alum": false
+  },
+  {
+    "name": "Kevin Gray",
+    "slug": "kevin-gray",
+    "role": "Postdoctoral Researcher",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Illinois Urbana-Champaign",
+    "team_id": "atmospheric-science",
+    "photo": "assets/people/kevin-gray.jpg",
+    "alum": false
+  },
+  {
+    "name": "Deffi Putri",
+    "slug": "deffi-putri",
+    "role": "PhD Student",
+    "role_as_of": "2026-03-30",
+    "institution": "University of Illinois Urbana-Champaign",
+    "team_id": "atmospheric-science",
+    "photo": "assets/people/deffi-putri.jpg",
+    "alum": false
+  },
+  {
+    "name": "Caleb Dahlke",
+    "slug": "caleb-dahlke",
+    "role": "Postdoctoral Researcher",
+    "role_as_of": "2026-10-06",
+    "institution": "University of Michigan",
+    "team_id": "uncertainty-quantification",
+    "photo": "assets/people/caleb-dahlke.jpg",
+    "alum": true,
+    "current_position": "Postdoctoral Fellow, C-PRIME Center, University of Michigan",
+    "current_position_url": "https://c-prime.engin.umich.edu/team"
+  },
+  {
+    "name": "Tsedeniya Amare",
+    "slug": "tsedeniya-amare",
+    "role": "PhD Student",
+    "role_as_of": "2026-10-06",
+    "institution": "University of Michigan",
+    "team_id": "decision-support",
+    "photo": "assets/people/tsedeniya-amare.jpg",
+    "alum": false
+  },
+  {
+    "name": "Ishika Joshi",
+    "slug": "ishika-joshi",
+    "role": "PhD Student",
+    "role_as_of": "2026-10-06",
+    "institution": "University of Michigan",
+    "team_id": "decision-support",
+    "photo": "assets/people/ishika-joshi.jpg",
+    "alum": false
+  },
+  {
+    "name": "Duc Hai Nguyen",
+    "slug": "duc-hai-nguyen",
+    "role": "Postdoctoral Researcher",
+    "role_as_of": "2026-10-06",
+    "institution": "University of Michigan",
+    "team_id": "flood-science",
+    "photo": null,
+    "alum": false
+  },
+  {
+    "name": "Weichen Huang",
+    "slug": "weichen-huang",
+    "role": "PhD Student",
+    "role_as_of": "2026-10-06",
+    "institution": "University of Michigan",
+    "team_id": "flood-science",
+    "photo": "assets/people/weichen-huang.jpg",
+    "alum": false
+  },
+  {
+    "name": "Shormila Sarker",
+    "slug": "shormila-sarker",
+    "role": "",
+    "role_as_of": "2026-10-06",
+    "institution": "Boise State University",
+    "team_id": "anthropology",
+    "photo": null,
+    "alum": false
+  },
+  {
+    "name": "Remi Masterson",
+    "slug": "remi-masterson",
+    "role": "Master’s Student",
+    "role_as_of": "2026-10-06",
+    "institution": "Boise State University",
+    "team_id": "anthropology",
+    "photo": "assets/people/remi-masterson.jpeg",
+    "alum": true
+  }
+]
