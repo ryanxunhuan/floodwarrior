@@ -8,7 +8,8 @@
     "team_id": "uncertainty-quantification",
     "photo": "assets/people/xun-huan.jpg",
     "alum": false,
-    "email": "xhuan@umich.edu"
+    "email": "xhuan@umich.edu",
+    "profile_url": "https://uq.engin.umich.edu/xun-huan.html"
   },
   {
     "name": "Valeriy Ivanov",
@@ -19,7 +20,8 @@
     "team_id": "flood-science",
     "photo": "assets/people/valeriy-ivanov.jpg",
     "alum": false,
-    "email": "ivanov@umich.edu"
+    "email": "ivanov@umich.edu",
+    "profile_url": "https://websites.umich.edu/~ivanov/HYDROWIT/HYDROWIT.html"
   },
   {
     "name": "Nikola Banovic",
@@ -30,7 +32,8 @@
     "team_id": "decision-support",
     "photo": "assets/people/nikola-banovic.jpg",
     "alum": false,
-    "email": "nbanovic@umich.edu"
+    "email": "nbanovic@umich.edu",
+    "profile_url": "https://www.nikolabanovic.net/"
   },
   {
     "name": "Richard Gonzalez",
@@ -41,7 +44,8 @@
     "team_id": "decision-science",
     "photo": "assets/people/richard-gonzalez.jpg",
     "alum": false,
-    "email": "gonzo@umich.edu"
+    "email": "gonzo@umich.edu",
+    "profile_url": "https://faculty.isr.umich.edu/gonzo/"
   },
   {
     "name": "John P. Ziker",
@@ -52,7 +56,8 @@
     "team_id": "anthropology",
     "photo": "assets/people/john-p-ziker.jpg",
     "alum": false,
-    "email": "jziker@boisestate.edu"
+    "email": "jziker@boisestate.edu",
+    "profile_url": "https://www.boisestate.edu/anthropology/research/undergraduate-research/thats-cooperation-lab-group/"
   },
   {
     "name": "Francina Dominguez",
@@ -63,7 +68,8 @@
     "team_id": "atmospheric-science",
     "photo": "assets/people/francina-dominguez.jpg",
     "alum": false,
-    "email": "francina@illinois.edu"
+    "email": "francina@illinois.edu",
+    "profile_url": "https://francina.web.illinois.edu/"
   },
   {
     "name": "Chen Cheng",
@@ -73,7 +79,8 @@
     "institution": "University of Michigan",
     "team_id": "uncertainty-quantification",
     "photo": "assets/people/chen-cheng.jpg",
-    "alum": true
+    "alum": true,
+    "profile_url": "https://uq.engin.umich.edu/alumni.html"
   },
   {
     "name": "Vinh Ngoc Tran",
@@ -85,7 +92,8 @@
     "photo": "assets/people/vinh-ngoc-tran.png",
     "alum": true,
     "current_position": "Oak Ridge National Laboratory",
-    "current_position_url": "https://www.ornl.gov/staff/vinh-tran/"
+    "current_position_url": "https://www.ornl.gov/staff/vinh-tran/",
+    "profile_url": "https://www.ornl.gov/staff/vinh-tran/"
   },
   {
     "name": "Dongwoon Kang",
@@ -95,7 +103,8 @@
     "institution": "University of Michigan",
     "team_id": "flood-science",
     "photo": "assets/people/dongwoon-kang.png",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://websites.umich.edu/~ivanov/HYDROWIT/HYDROWIT.html"
   },
   {
     "name": "Snehal Prabhudesai",
@@ -107,7 +116,8 @@
     "photo": "assets/people/snehal-prabhudesai.jpg",
     "alum": true,
     "current_position": "Assistant Professor, Cal Poly, San Luis Obispo",
-    "current_position_url": "https://csc.calpoly.edu/faculty/"
+    "current_position_url": "https://csc.calpoly.edu/faculty/",
+    "profile_url": "https://snehalbp.github.io/"
   },
   {
     "name": "Anindya Das Antar",
@@ -119,7 +129,8 @@
     "photo": "assets/people/anindya-das-antar.jpg",
     "alum": true,
     "current_position": "Postdoctoral Research Scholar, University of Notre Dame",
-    "current_position_url": "https://lucyinstitute.nd.edu/people/the-lucy-family-core-team/postdoctoral-researchers/anindya-das-antar/"
+    "current_position_url": "https://lucyinstitute.nd.edu/people/the-lucy-family-core-team/postdoctoral-researchers/anindya-das-antar/",
+    "profile_url": "https://adantar1618.com/"
   },
   {
     "name": "Jaewoong Choi",
@@ -129,7 +140,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-support",
     "photo": "assets/people/jaewoong-choi.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://www.nikolabanovic.net/#Advising"
   },
   {
     "name": "Alicia Carmichael",
@@ -139,7 +151,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-science",
     "photo": "assets/people/alicia-carmichael.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://biosocialmethods.isr.umich.edu/team/"
   },
   {
     "name": "Donna Walter",
@@ -149,7 +162,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-science",
     "photo": "assets/people/donna-walter.png",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://biosocialmethods.isr.umich.edu/team/"
   },
   {
     "name": "Brandon Labbree",
@@ -159,7 +173,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-science",
     "photo": "assets/people/brandon-labbree.png",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://biosocialmethods.isr.umich.edu/team/"
   },
   {
     "name": "Natalie Leonard",
@@ -169,7 +184,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-science",
     "photo": "assets/people/natalie-leonard.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://taubmancollege.umich.edu/student/natalie-leonard/"
   },
   {
     "name": "Arya Saboo",
@@ -179,7 +195,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-science",
     "photo": "assets/people/arya-saboo.png",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://biosocialmethods.isr.umich.edu/team/alumni/"
   },
   {
     "name": "Loucas Georgiou",
@@ -189,7 +206,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-science",
     "photo": "assets/people/loucas-georgiou.png",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://biosocialmethods.isr.umich.edu/team/"
   },
   {
     "name": "Sarah Whitaker",
@@ -199,7 +217,8 @@
     "institution": "Boise State University",
     "team_id": "anthropology",
     "photo": "assets/people/sarah-whitaker.png",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://www.boisestate.edu/research-resilience/about-us/faculty-staff/sarah-whitaker/"
   },
   {
     "name": "Joseph Nigro",
@@ -209,7 +228,8 @@
     "institution": "Boise State University",
     "team_id": "anthropology",
     "photo": "assets/people/joseph-nigro.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://us.bold.pro/my/joseph-nigro"
   },
   {
     "name": "Brian Jewett",
@@ -219,7 +239,8 @@
     "institution": "University of Illinois Urbana-Champaign",
     "team_id": "atmospheric-science",
     "photo": "assets/people/brian-jewett.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://climas.illinois.edu/directory/profile/bjewett"
   },
   {
     "name": "Kevin Gray",
@@ -229,7 +250,8 @@
     "institution": "University of Illinois Urbana-Champaign",
     "team_id": "atmospheric-science",
     "photo": "assets/people/kevin-gray.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://climas.illinois.edu/directory/profile/kevintg2"
   },
   {
     "name": "Deffi Putri",
@@ -239,7 +261,8 @@
     "institution": "University of Illinois Urbana-Champaign",
     "team_id": "atmospheric-science",
     "photo": "assets/people/deffi-putri.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://climas.illinois.edu/directory/profile/deffip2"
   },
   {
     "name": "Caleb Dahlke",
@@ -251,7 +274,8 @@
     "photo": "assets/people/caleb-dahlke.jpg",
     "alum": true,
     "current_position": "Postdoctoral Fellow, C-PRIME Center, University of Michigan",
-    "current_position_url": "https://c-prime.engin.umich.edu/team"
+    "current_position_url": "https://c-prime.engin.umich.edu/team",
+    "profile_url": "https://sites.google.com/view/calebdahlke/home"
   },
   {
     "name": "Tsedeniya Amare",
@@ -261,7 +285,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-support",
     "photo": "assets/people/tsedeniya-amare.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://tsedeniya.github.io/"
   },
   {
     "name": "Ishika Joshi",
@@ -271,7 +296,8 @@
     "institution": "University of Michigan",
     "team_id": "decision-support",
     "photo": "assets/people/ishika-joshi.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://ishikajoshi.github.io/website/"
   },
   {
     "name": "Duc Hai Nguyen",
@@ -281,7 +307,8 @@
     "institution": "University of Michigan",
     "team_id": "flood-science",
     "photo": null,
-    "alum": false
+    "alum": false,
+    "profile_url": null
   },
   {
     "name": "Weichen Huang",
@@ -291,7 +318,8 @@
     "institution": "University of Michigan",
     "team_id": "flood-science",
     "photo": "assets/people/weichen-huang.jpg",
-    "alum": false
+    "alum": false,
+    "profile_url": "https://micde.umich.edu/member/weichen-huang/"
   },
   {
     "name": "Shormila Sarker",
@@ -301,7 +329,8 @@
     "institution": "Boise State University",
     "team_id": "anthropology",
     "photo": null,
-    "alum": false
+    "alum": false,
+    "profile_url": null
   },
   {
     "name": "Remi Masterson",
@@ -311,6 +340,7 @@
     "institution": "Boise State University",
     "team_id": "anthropology",
     "photo": "assets/people/remi-masterson.jpeg",
-    "alum": true
+    "alum": true,
+    "profile_url": "https://www.boisestate.edu/anthropology/research/undergraduate-research/applied-anthropology/"
   }
 ]
