@@ -88,8 +88,8 @@ The WRF and stormwater highlights use credited project meeting illustrations;
 these are distinguished from figures taken from a paper. The hero uses the
 unaltered 5760×3240 NASA Landsat original, using a wider Detroit-centered view
 framed with page styles.
-The roster incorporates PI corrections supplied in October 2026. Project
-title for Shormila Sarker awaits confirmation. Weichen Huang is a PhD Student. Duc Hai
+The roster incorporates PI corrections supplied in October 2026. Sarah Whitaker is a Research Scholar,
+and Shormila Sarker is a Master’s Student. Weichen Huang is a PhD Student. Duc Hai
 Nguyen’s candidate photograph awaits identity confirmation. Subsequent
 positions for Chen Cheng and Remi Masterson remain unverified. Caleb Dahlke is
 now a Postdoctoral Fellow at the University of Michigan C-PRIME Center, as
