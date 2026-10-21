@@ -42,6 +42,13 @@ Use a branch and pull request when suggesting changes for review. The JSON files
 are reference metadata; changes there do not automatically regenerate the HTML.
 Keep repeated navigation and footer wording consistent across the ten pages.
 
+Uploading a portrait adds the image file but does not display it on the Team
+page automatically. After uploading to `assets/people/`, update the member's
+portrait in `team.html` and the `photo` path in `data/team.json`, then add the
+source to `credits.html`. Leadership portraits also appear in `index.html`.
+Keep the existing portrait frame and use a new image version in the `src` URL
+when replacing an image, so browsers load the updated file.
+
 The site uses larger type, short introductory copy, original research figures,
 and full-resolution figure links. Claims preserve the scope of synthetic
 studies, numerical experiments, proposed models, and early prototypes.
@@ -72,8 +79,9 @@ credit links to the full figure; arXiv hosting is not a general open reuse licen
 Public institutional profiles supply five faculty portraits and the Brian Jewett, Kevin Gray, Deffi Putri, Caleb
 Dahlke, Tsedeniya Amare, Ishika Joshi, and Remi Masterson photographs. Xun Huan
 supplied his portrait. Portraits use consistent frames with individual
-positioning; original image files are retained. Initials stand in for the
-three portraits still awaiting verification or a source image. Logos identify the
+positioning; original image files are retained. John P. Ziker supplied Shormila
+Sarker's portrait. Initials stand in for Duc Hai Nguyen while his portrait awaits
+identity confirmation. Logos identify the
 participating institutions. Image sources and applicable figure licenses appear
 on the credits page; no general open license is inferred for supplied images.
 The WRF and stormwater highlights use credited project meeting illustrations;
