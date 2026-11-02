@@ -80,8 +80,8 @@ Public institutional profiles supply five faculty portraits and the Brian Jewett
 Dahlke, Tsedeniya Amare, Ishika Joshi, and Remi Masterson photographs. Xun Huan
 supplied his portrait. Portraits use consistent frames with individual
 positioning; original image files are retained. John P. Ziker supplied Shormila
-Sarker's portrait. Initials stand in for Duc Hai Nguyen while his portrait awaits
-identity confirmation. Logos identify the
+Sarker's portrait. Xun Huan supplied Duc Hai Nguyen's portrait. All 30 team
+members have portraits. Logos identify the
 participating institutions. Image sources and applicable figure licenses appear
 on the credits page; no general open license is inferred for supplied images.
 The WRF and stormwater highlights use credited project meeting illustrations;
@@ -89,8 +89,7 @@ these are distinguished from figures taken from a paper. The hero uses the
 unaltered 5760×3240 NASA Landsat original, using a wider Detroit-centered view
 framed with page styles.
 The roster incorporates PI corrections supplied in October 2026. Sarah Whitaker is a Research Scholar,
-and Shormila Sarker is a Master’s Student. Weichen Huang is a PhD Student. Duc Hai
-Nguyen’s candidate photograph awaits identity confirmation. Subsequent
+and Shormila Sarker is a Master’s Student. Weichen Huang is a PhD Student. Subsequent
 positions for Chen Cheng and Remi Masterson remain unverified. Caleb Dahlke is
 now a Postdoctoral Fellow at the University of Michigan C-PRIME Center, as
 supplied by the PI and corroborated by the center’s team page.
