@@ -28,17 +28,22 @@ Internal paths support the `/floodwarrior/` project URL.
   “(Alumni)” label and a subsequent position where verified or supplied by the PI.
 - `publications.html`: 39 records in six categories, newest first within each.
   Search covers titles, authors, venues, dates, and DOI; a type filter limits the
-  visible categories. Full citations and resource links expand within each row.
+  visible categories. Articles, preprints, and theses have expandable citations,
+  with DOI links at the end. Presentations and products link through their titles
+  and have no citation expansion. Presentation rows show all listed authors.
 - `news.html`: the complete news archive, grouped by year. The homepage displays
   three selected stories in compact rows and links to the archive.
 - `data/publications.json` and `data/news.json`: edit these records, then run
   `python3 scripts/render_catalog.py` to regenerate the catalog, news archive,
   and homepage news selection. Existing publication anchors are preserved.
   `sort_date` and news `date` use YYYY, YYYY-MM, or YYYY-MM-DD, preserving known
-  precision. Dates mean first online publication, first preprint posting, or
+  precision for sorting; displayed dates use month and year, or year alone when
+  the month is unknown. Dates mean first online publication, first preprint posting, or
   event date; unspecified months/days follow dated entries within that year.
   Citation years may differ from online publication dates. Software companion
-  entries use the associated paper year, as stated in their expanded details.
+  entries use the associated paper year, as stated in their notes.
+  Optional `title_links` split a product title between its data and code links.
+  News may use `source_url` to link the source separately from the event title.
   `featured: true` selects homepage news. Keep that selection to three items.
   Presentation and project-report citations supplied by the project team may
   have no public file link. Raw reports are never published.

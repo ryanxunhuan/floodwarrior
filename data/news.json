@@ -30,10 +30,12 @@
   {
     "id": "deffi-poster-award",
     "title": "Deffi Putri earns third place for a student poster at the AMS Annual Meeting",
-    "date": "2025",
+    "date": "2025-01",
     "source": "Illinois CliMAS",
-    "url": "https://climas.illinois.edu/directory/profile/deffip2",
-    "type": "Team & Awards"
+    "url": "https://annual.ametsoc.org/2025/",
+    "type": "Team & Awards",
+    "source_url": "https://climas.illinois.edu/directory/profile/deffip2",
+    "date_basis": "Month inferred from the conference dates, January 12–16, 2025."
   },
   {
     "id": "snehal-defense",
@@ -92,5 +94,13 @@
     "source": "Department of Defense",
     "url": "https://www.defense.gov/News/Releases/Release/Article/3336228/fiscal-year-2023-research-funding-awards/",
     "type": "Research Coverage"
+  },
+  {
+    "id": "ziker-distinguished-professor",
+    "title": "John Ziker named Boise State Distinguished Professor",
+    "date": "2026-04-10",
+    "source": "Boise State News",
+    "url": "https://www.boisestate.edu/news/2026/04/10/three-faculty-named-boise-state-distinguished-professors/",
+    "type": "Team & Awards"
   }
 ]

@@ -24,8 +24,7 @@ def dated(value):
     parts = str(value).split('-')
     if len(parts) == 1:
         return parts[0]
-    month = calendar.month_abbr[int(parts[1])]
-    return f'{month} {int(parts[2])}, {parts[0]}' if len(parts) == 3 else f'{month} {parts[0]}'
+    return f'{calendar.month_name[int(parts[1])]} {parts[0]}'
 
 def newest(records, key):
     # Missing month/day remain unspecified in the record and display. Within a
@@ -37,31 +36,38 @@ def link(url, text):
 
 def entry(p):
     authors = p.get('authors', [])
-    abbreviated = ', '.join(authors[:3]) + ' et al.' if len(authors) > 5 else ', '.join(authors)
+    category = p['display_category']
+    abbreviated = ', '.join(authors[:3]) + ' et al.' if len(authors) > 5 and category != 'presentations' else ', '.join(authors)
     venue = p['venue']
-    full = ', '.join(authors) + f' ({p["year"]}). {p["title"]}. {venue}'
+    citation_venue = f'{p["article_type"]}, {venue}' if category == 'theses' else venue
+    full = ', '.join(authors) + f' ({p["year"]}). {p["title"]}. {citation_venue}'
     if p.get('volume'):
         full += ', ' + p['volume'] + (f'({p["issue"]})' if p.get('issue') else '')
     if p.get('pages'): full += ', pp. ' + p['pages']
     if p.get('article'): full += ', article ' + p['article']
     full += '.'
-    resources = []
-    if p.get('url'):
-        resources.append(link(p['url'], p.get('link_label') or ('DOI: ' + p['doi'] if p.get('doi') else 'Public record')))
-    resources += [link(x['url'], x['label']) for x in p.get('resources', [])]
-    details = f'<p class="pub-authors">{e(full)}</p>'
-    if p.get('public_note'): details += f'<p class="pub-authors">{e(p["public_note"])}</p>'
-    if p.get('last_revised'): details += f'<p class="pub-authors">Preprint revised {dated(p["last_revised"])}.</p>'
-    if resources: details += '<div class="pub-resources">' + ''.join(resources) + '</div>'
+    citation = e(full)
+    if p.get('doi'):
+        citation += ' ' + link('https://doi.org/' + p['doi'], 'doi:' + p['doi'])
+    notes = ''
+    if p.get('public_note'): notes += f'<p class="pub-authors">{e(p["public_note"])}</p>'
+    if p.get('last_revised'): notes += f'<p class="pub-authors">Preprint revised {dated(p["last_revised"])}.</p>'
+    if category in ('presentations', 'products'):
+        details = notes
+    else:
+        details = f'<details><summary>Citation<span class="sr-only"> for {e(p["title"])}</span></summary><p class="pub-authors">{citation}</p>{notes}</details>'
+    title = link(p.get('url'), p['title'])
+    if p.get('title_links'):
+        title = ''.join(link(part.get('url'), part['text']) for part in p['title_links'])
     search = ' '.join([p['title'], ' '.join(authors), venue, str(p['year']), p['sort_date'], CATEGORIES[p['display_category']], p.get('doi') or '']).lower()
     kind = p.get('article_type', '')
     if kind in ['Journal article', 'Preprint', 'Conference paper']: kind = ''
     meta = ' · '.join(x for x in [dated(p['sort_date']), venue, kind] if x)
     return f'''<article class="publication bib-entry" id="{e(p['id'])}" data-category="{e(p['display_category'])}" data-date="{e(p['sort_date'])}" data-search="{e(search)}">
 <p class="pub-meta">{e(meta)}</p>
-<h3>{link(p.get('url'), p['title'])}</h3>
+<h3>{title}</h3>
 <p class="citation-authors">{e(abbreviated)}</p>
-<details><summary>Citation &amp; Links<span class="sr-only"> for {e(p['title'])}</span></summary>{details}</details>
+{details}
 </article>'''
 
 def page_shell(title, page):
@@ -75,7 +81,7 @@ def page_shell(title, page):
 
 def news_entry(n, compact=False):
     description = '' if compact else f'<p class="news-meta">{e(n["type"])}' + (f' · {e(n["note"])}' if n.get('note') else '') + '</p>'
-    return f'<article class="news-entry" id="{e(n["id"])}"><p class="pub-meta"><time datetime="{e(n["date"])}">{dated(n["date"])}</time> · {e(n["source"])}</p><h3>{link(n["url"], n["title"])}</h3>{description}</article>'
+    return f'<article class="news-entry" id="{e(n["id"])}"><p class="pub-meta"><time datetime="{e(n["date"])}">{dated(n["date"])}</time> · {link(n.get("source_url"), n["source"])}</p><h3>{link(n["url"], n["title"])}</h3>{description}</article>'
 
 def main():
     pubs = json.loads((ROOT / 'data/publications.json').read_text())

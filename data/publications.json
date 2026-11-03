@@ -802,7 +802,7 @@
     "publication_group": "other_public_output",
     "status": "public output",
     "public_metadata_verified": true,
-    "public_note": "Dissertation defended July 15, 2026. Link opens the defense announcement.",
+    "public_note": "Dissertation defended July 2026. The title links to the defense announcement.",
     "link_label": "Defense announcement"
   },
   {
@@ -889,8 +889,7 @@
     "status": "public output",
     "link_label": "Event / program",
     "public_metadata_verified": false,
-    "metadata_source": "Project-team supplied presentation citation",
-    "public_note": "Meeting dates: March 17–21, 2026."
+    "metadata_source": "Project-team supplied presentation citation"
   },
   {
     "id": "whitaker-community-2026",
@@ -908,8 +907,7 @@
     "status": "public output",
     "link_label": "Event / program",
     "public_metadata_verified": true,
-    "metadata_source": "https://hazards.colorado.edu/workshop/2026/session/putting-community-first-when-building-resilience",
-    "public_note": "Sarah Whitaker participated as a presenter."
+    "metadata_source": "https://hazards.colorado.edu/workshop/2026/session/putting-community-first-when-building-resilience"
   },
   {
     "id": "whitaker-culture-talk-2026",
@@ -947,8 +945,7 @@
     "status": "public output",
     "link_label": "Event / program",
     "public_metadata_verified": false,
-    "metadata_source": "Project-team supplied presentation citation",
-    "public_note": "Workshop dates: August 11–12, 2026."
+    "metadata_source": "Project-team supplied presentation citation"
   },
   {
     "id": "huan-aescape-2026",
@@ -1050,6 +1047,22 @@
       {
         "label": "Associated paper",
         "url": "https://doi.org/10.1038/s41597-025-05612-6"
+      }
+    ],
+    "title_links": [
+      {
+        "text": "CAMELSH: "
+      },
+      {
+        "text": "Data",
+        "url": "https://doi.org/10.5281/zenodo.15413207"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Code",
+        "url": "https://github.com/vinhngoctran/CAMELSH"
       }
     ]
   }
