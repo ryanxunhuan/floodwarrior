@@ -42,7 +42,9 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2025-10-17"
   },
   {
     "id": "urban-monitoring-2026",
@@ -79,12 +81,17 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2026-07"
   },
   {
     "id": "detroit-arsenal-infrastructure-storymap-2026",
     "title": "Detroit Arsenal: Mapping Infrastructure Systems and Risk in a Critical Defense Region",
-    "authors": [],
+    "authors": [
+      "Joseph Nigro",
+      "Anthropology Team"
+    ],
     "year": 2026,
     "publication_group": "other_public_output",
     "venue": "ArcGIS StoryMaps",
@@ -98,7 +105,9 @@
     "last_modified": "2026-05-06",
     "verified_source": "https://storymaps.arcgis.com/stories/55717a0331084346bf7da9a97f10edcb",
     "metadata_source": "https://www.arcgis.com/sharing/rest/content/items/55717a0331084346bf7da9a97f10edcb?f=json",
-    "caveat": "The displayed title and subtitle are combined here. No complete public conventional author list located; cite the institutional byline or confirm full credits. Creation date is repository metadata, not a claimed formal publication date."
+    "caveat": "The displayed title and subtitle are combined here. No complete public conventional author list located; cite the institutional byline or confirm full credits. Creation date is repository metadata, not a claimed formal publication date.",
+    "display_category": "products",
+    "sort_date": "2026-03-23"
   },
   {
     "id": "goal-oriented-flood-sensors-2026",
@@ -125,7 +134,9 @@
     "verified_source": "https://arxiv.org/abs/2608.21182",
     "additional_primary_source": "https://uq.engin.umich.edu/publications/",
     "article_type": "Preprint",
-    "caveat": "No final journal record verified."
+    "caveat": "No final journal record verified.",
+    "display_category": "preprints",
+    "sort_date": "2026-08-21"
   },
   {
     "id": "flood-warnings-decisions-2026",
@@ -162,7 +173,7 @@
     "volume": "14",
     "issue": "6",
     "article": "e2026EF008857",
-    "article_type": "Commentary (Perspective in abstract)",
+    "article_type": "Perspective",
     "doi": "10.1029/2026EF008857",
     "url": "https://doi.org/10.1029/2026EF008857",
     "verified_source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008857",
@@ -174,7 +185,9 @@
     "figure_candidate": "Figure 1 presents the physical, human/social, and decision-science framework and feedback loops. It is a particularly relevant candidate if exact reuse terms are verified.",
     "publication_group": "published_journal_or_conference",
     "status": "published",
-    "public_metadata_verified": true
+    "public_metadata_verified": true,
+    "display_category": "journals",
+    "sort_date": "2026-06-23"
   },
   {
     "id": "wrf-ensemble-2026",
@@ -199,7 +212,9 @@
     "metadata_source": "https://api.crossref.org/works/10.22541/essoar.176840905.58668584/v1",
     "additional_primary_source": "https://d197for5662m48.cloudfront.net/documents/publicationstatus/301474/preprint_pdf/0c799d881b71b9851388c8651092f1c5.pdf",
     "article_type": "Preprint",
-    "caveat": "Author display names follow the public manuscript title page. Repository metadata expands Brian F. Jewett and omits Kevin’s middle initial. Public manuscript states submitted to JGR: Atmospheres; no final journal record verified."
+    "caveat": "Author display names follow the public manuscript title page. Repository metadata expands Brian F. Jewett and omits Kevin’s middle initial. Public manuscript states submitted to JGR: Atmospheres; no final journal record verified.",
+    "display_category": "preprints",
+    "sort_date": "2026-01-14"
   },
   {
     "id": "rural-urban-connectivity-2026",
@@ -240,7 +255,9 @@
         "doi": "10.21203/rs.3.rs-7436169/v1"
       }
     ],
-    "caveat": "The published title adds “Severe” to the report/preprint title. The preprint is the same work and is not counted separately."
+    "caveat": "The published title adds “Severe” to the report/preprint title. The preprint is the same work and is not counted separately.",
+    "display_category": "journals",
+    "sort_date": "2026-07-11"
   },
   {
     "id": "institutional-culture-2026",
@@ -263,7 +280,9 @@
     "verified_source": "https://www.tandfonline.com/doi/full/10.1080/00187259.2026.2727861",
     "article_type": "Journal article",
     "summary": "Examines how institutional culture shapes flood resilience at two U.S. Army installations.",
-    "caveat": "Published online September 24, 2026; the publisher record currently gives an online-first page range rather than volume and issue."
+    "caveat": "Published online September 24, 2026; the publisher record currently gives an online-first page range rather than volume and issue.",
+    "display_category": "journals",
+    "sort_date": "2026-09-24"
   },
   {
     "id": "forecasters-loop-2026",
@@ -295,7 +314,9 @@
     "metadata_source": "https://api.crossref.org/works/10.1029/2025GL118317",
     "summary": "Compares machine learning and operational flood forecasts that incorporate human forecasters, highlighting the continuing value of forecaster judgment.",
     "additional_primary_source": "https://impact.ornl.gov/en/publications/the-value-of-forecasters-in-the-loop-in-real-time-flood-forecasti/",
-    "caveat": "Comparisons use California–Nevada River Forecast Center operational forecasts and lead times up to 96 hours; do not generalize to all forecasting centers."
+    "caveat": "Comparisons use California–Nevada River Forecast Center operational forecasts and lead times up to 96 hours; do not generalize to all forecasting centers.",
+    "display_category": "journals",
+    "sort_date": "2026-04-24"
   },
   {
     "id": "multifidelity-eig-2025",
@@ -325,7 +346,9 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2025-11-25"
   },
   {
     "id": "errorcastnet-2025",
@@ -359,7 +382,10 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2025-06-19",
+    "first_online": "2025-06-19"
   },
   {
     "id": "covariance-pilot-termination-2025",
@@ -380,7 +406,9 @@
     "version": "1",
     "verified_source": "https://arxiv.org/abs/2508.18490",
     "article_type": "Preprint",
-    "caveat": "No final journal publication verified."
+    "caveat": "No final journal publication verified.",
+    "display_category": "preprints",
+    "sort_date": "2025-08-25"
   },
   {
     "id": "camelsh-2025",
@@ -421,7 +449,9 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2025-07-28"
   },
   {
     "id": "putri-thesis-2025",
@@ -439,7 +469,9 @@
     "publication_date": "2025-05-08",
     "article_type": "M.S. thesis, Atmospheric Sciences",
     "verified_source": "https://www.ideals.illinois.edu/items/136676",
-    "caveat": "Public repository metadata and abstract; the full thesis text is restricted to the University of Illinois community. Do not label it an openly downloadable thesis."
+    "caveat": "Public repository metadata and abstract; the full thesis text is restricted to the University of Illinois community. Do not label it an openly downloadable thesis.",
+    "display_category": "theses",
+    "sort_date": "2025-05-08"
   },
   {
     "id": "optimal-stopping-2025",
@@ -460,7 +492,9 @@
     "version": "3",
     "verified_source": "https://arxiv.org/abs/2509.21734",
     "article_type": "Preprint",
-    "caveat": "No journal or accepted conference publication verified; use 2025 for the original preprint, optionally indicating the 2026 revision."
+    "caveat": "No journal or accepted conference publication verified; use 2025 for the original preprint, optionally indicating the 2026 revision.",
+    "display_category": "preprints",
+    "sort_date": "2025-09-26"
   },
   {
     "id": "pluvial-impacts-2025",
@@ -491,7 +525,9 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2025-01-24"
   },
   {
     "id": "multijurisdictional-uncertainty-2025",
@@ -519,7 +555,9 @@
     "metadata_source": "https://api.crossref.org/works/10.2139/ssrn.5397416",
     "additional_primary_source": "https://uq.engin.umich.edu/publications/",
     "article_type": "Preprint",
-    "caveat": "Author order follows the posted SSRN record. No final journal publication was verified."
+    "caveat": "Author order follows the posted SSRN record. No final journal publication was verified.",
+    "display_category": "preprints",
+    "sort_date": "2025-08-19"
   },
   {
     "id": "multiple-basin-training-2025",
@@ -540,12 +578,17 @@
     "first_posted": "2025-06-18",
     "verified_source": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-769/",
     "article_type": "Technical note preprint",
-    "caveat": "The public record is an EGUsphere preprint with closed discussion; no final HESS journal citation was verified. It was placed under published outputs in the project report, but should be displayed as a preprint."
+    "caveat": "The public record is an EGUsphere preprint with closed discussion; no final HESS journal citation was verified. It was placed under published outputs in the project report, but should be displayed as a preprint.",
+    "display_category": "preprints",
+    "sort_date": "2025-06-18"
   },
   {
     "id": "detroit-arsenal-flood-storymap-2025",
     "title": "The Detroit Arsenal Flood: 2014 and beyond",
-    "authors": [],
+    "authors": [
+      "Joseph Nigro",
+      "Anthropology Team"
+    ],
     "year": 2025,
     "publication_group": "other_public_output",
     "venue": "ArcGIS StoryMaps",
@@ -560,7 +603,9 @@
     "last_modified": "2025-12-17",
     "verified_source": "https://storymaps.arcgis.com/stories/4da504723f194885ac1eeae91be0c611",
     "metadata_source": "https://www.arcgis.com/sharing/rest/content/items/4da504723f194885ac1eeae91be0c611?f=json",
-    "caveat": "The page credits Joseph Nigro as creator but does not give a complete conventional author list. Use its institutional byline or confirm the full author credits."
+    "caveat": "The page credits Joseph Nigro as creator but does not give a complete conventional author list. Use its institutional byline or confirm the full author credits.",
+    "display_category": "products",
+    "sort_date": "2025-10-23"
   },
   {
     "id": "urban-connectivity-2024",
@@ -591,7 +636,9 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Journal article"
+    "article_type": "Journal article",
+    "display_category": "journals",
+    "sort_date": "2024-08-27"
   },
   {
     "id": "urban-policy-brief-2024",
@@ -620,7 +667,9 @@
     "article_type": "Policy Brief",
     "verified_source": "https://www.nature.com/articles/s44284-024-00128-3",
     "summary": "A policy brief on how outdated design assumptions and fragmented planning can intensify urban flooding.",
-    "caveat": "A separate policy brief accompanying the urban-connectivity research article; do not label it another original research study."
+    "caveat": "A separate policy brief accompanying the urban-connectivity research article; do not label it another original research study.",
+    "display_category": "journals",
+    "sort_date": "2024-09-06"
   },
   {
     "id": "vime-2024",
@@ -647,6 +696,361 @@
     "publication_group": "published_journal_or_conference",
     "status": "published",
     "public_metadata_verified": true,
-    "article_type": "Conference paper"
+    "article_type": "Conference paper",
+    "display_category": "conferences",
+    "sort_date": "2024-10-11"
+  },
+  {
+    "id": "risk-aware-design-2026",
+    "title": "Mean–Variance Risk-Aware Bayesian Optimal Experimental Design for Nonlinear Models",
+    "authors": [
+      "Wanggang Shen",
+      "Xun Huan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-04-05",
+    "display_category": "preprints",
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2604.04315",
+    "article_type": "Preprint",
+    "publication_group": "public_preprint",
+    "status": "public preprint",
+    "doi": "10.48550/arXiv.2604.04315",
+    "version": "1",
+    "public_metadata_verified": true
+  },
+  {
+    "id": "ship-roll-design-2026",
+    "title": "Variational Goal-Oriented Optimal Experimental Design for Mixed-Distribution Quantities of Interest: Application to Ship Roll Safety",
+    "authors": [
+      "Chen Cheng",
+      "Xun Huan",
+      "Yulin Pan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-08-20",
+    "display_category": "preprints",
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2608.19631",
+    "article_type": "Preprint",
+    "publication_group": "public_preprint",
+    "status": "public preprint",
+    "doi": "10.48550/arXiv.2608.19631",
+    "version": "1",
+    "public_metadata_verified": true
+  },
+  {
+    "id": "causal-learning-2026",
+    "title": "Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning",
+    "authors": [
+      "Zheyu Zhang",
+      "Jiayuan Dong",
+      "Jie Liu",
+      "Xun Huan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-09",
+    "display_category": "journals",
+    "venue": "Transactions on Machine Learning Research",
+    "url": "https://openreview.net/forum?id=6dVCZT7pO2",
+    "article_type": "Journal article",
+    "publication_group": "published_journal_or_conference",
+    "status": "published",
+    "resources": [
+      {
+        "label": "Open preprint",
+        "url": "https://arxiv.org/abs/2507.07359"
+      },
+      {
+        "label": "Project overview",
+        "url": "https://uq.engin.umich.edu/causal-learning.html"
+      }
+    ],
+    "verified_source": "https://uq.engin.umich.edu/causal-learning.html",
+    "public_metadata_verified": true
+  },
+  {
+    "id": "masterson-project-2024",
+    "title": "Cultural and Social Influences on Decision-Making: Climate Change Resilience for DoD Infrastructure",
+    "authors": [
+      "Remi Masterson"
+    ],
+    "year": 2024,
+    "sort_date": "2024",
+    "display_category": "theses",
+    "venue": "Boise State University",
+    "url": null,
+    "article_type": "Master’s project report",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied citation",
+    "public_note": "Master’s project report. Public full text is not linked."
+  },
+  {
+    "id": "prabhudesai-dissertation-2026",
+    "title": "Computing and Communicating Uncertainty for Responsible Human-AI Decision-making",
+    "authors": [
+      "Snehal Prabhudesai"
+    ],
+    "year": 2026,
+    "sort_date": "2026-07-15",
+    "display_category": "theses",
+    "venue": "University of Michigan",
+    "url": "https://cse.engin.umich.edu/event/computing-and-communicating-uncertainty-for-responsible-human-ai-decision-making",
+    "article_type": "PhD dissertation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "public_metadata_verified": true,
+    "public_note": "Dissertation defended July 15, 2026. Link opens the defense announcement.",
+    "link_label": "Defense announcement"
+  },
+  {
+    "id": "ivanov-ams-2026",
+    "title": "Advancing the Understanding of Flood Connectivity and Prediction in Urbanscapes",
+    "authors": [
+      "Valeriy Ivanov",
+      "Vinh Ngoc Tran",
+      "Kevin T. Gray",
+      "Francina Dominguez",
+      "G. Aaron Alexander",
+      "Daniel B. Wright",
+      "Jongho Kim",
+      "Fariborz Daneshvar",
+      "Xun Huan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-01",
+    "display_category": "presentations",
+    "venue": "Rafael L. Bras Symposium, AMS Annual Meeting",
+    "url": "https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/rafael-l-bras-symposium/rafael-l-bras-symposium-booklet/",
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": true,
+    "metadata_source": "https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/rafael-l-bras-symposium/rafael-l-bras-symposium-booklet/"
+  },
+  {
+    "id": "huan-jmm-2026",
+    "title": "Optimal-Stopping for Bayesian Sequential Experimental Design",
+    "authors": [
+      "Xun Huan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-01",
+    "display_category": "presentations",
+    "venue": "Joint Mathematics Meetings",
+    "url": null,
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied presentation citation"
+  },
+  {
+    "id": "coons-siam-2026",
+    "title": "Multi-Fidelity Approaches to Bayesian Optimal Experimental Design",
+    "authors": [
+      "Thomas Coons",
+      "Caleb Dahlke",
+      "Aniket Jivani",
+      "Tommie Catanach",
+      "Ruben Villarreal",
+      "Xun Huan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-03",
+    "display_category": "presentations",
+    "venue": "SIAM Conference on Uncertainty Quantification",
+    "url": "https://www.siam.org/media/xygnvalm/uq26_abstracts.pdf",
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": true,
+    "metadata_source": "https://www.siam.org/media/xygnvalm/uq26_abstracts.pdf"
+  },
+  {
+    "id": "whitaker-sfaa-2026",
+    "title": "A framework for identifying the impact of social, ecological, and cultural factors on flood risk at US Department of Defense installations",
+    "authors": [
+      "Sarah H. Whitaker",
+      "John P. Ziker"
+    ],
+    "year": 2026,
+    "sort_date": "2026-03",
+    "display_category": "presentations",
+    "venue": "86th Annual Meeting of the Society for Applied Anthropology, Albuquerque, NM",
+    "url": null,
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied presentation citation",
+    "public_note": "Meeting dates: March 17–21, 2026."
+  },
+  {
+    "id": "whitaker-community-2026",
+    "title": "Putting Community First When Building Resilience",
+    "authors": [
+      "Sarah H. Whitaker"
+    ],
+    "year": 2026,
+    "sort_date": "2026-06-14",
+    "display_category": "presentations",
+    "venue": "50th Annual Natural Hazards Research and Applications Workshop, Broomfield, CO",
+    "url": "https://hazards.colorado.edu/workshop/2026/session/putting-community-first-when-building-resilience",
+    "article_type": "Roundtable participation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": true,
+    "metadata_source": "https://hazards.colorado.edu/workshop/2026/session/putting-community-first-when-building-resilience",
+    "public_note": "Sarah Whitaker participated as a presenter."
+  },
+  {
+    "id": "whitaker-culture-talk-2026",
+    "title": "Ten Feet Tall and Invincible: How Military Institutional Culture Shapes Flood Resilience",
+    "authors": [
+      "Sarah H. Whitaker",
+      "John P. Ziker"
+    ],
+    "year": 2026,
+    "sort_date": "2026-06",
+    "display_category": "presentations",
+    "venue": "50th Annual Natural Hazards Research and Applications Workshop, Broomfield, CO",
+    "url": null,
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied presentation citation"
+  },
+  {
+    "id": "whitaker-gray-workshop-2026",
+    "title": "Flood and Weather Resilience through Risk-Informed Operations and Readiness",
+    "authors": [
+      "Sarah H. Whitaker",
+      "Kevin Gray"
+    ],
+    "year": 2026,
+    "sort_date": "2026-08-11",
+    "display_category": "presentations",
+    "venue": "Flood Hazards & Installation Resilience Workshop, Annapolis, MD",
+    "url": null,
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied presentation citation",
+    "public_note": "Workshop dates: August 11–12, 2026."
+  },
+  {
+    "id": "huan-aescape-2026",
+    "title": "Goal-oriented Bayesian experimental design for prediction and design under uncertainty",
+    "authors": [
+      "Xun Huan"
+    ],
+    "year": 2026,
+    "sort_date": "2026-09",
+    "display_category": "presentations",
+    "venue": "AESCAPE",
+    "url": null,
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied presentation citation"
+  },
+  {
+    "id": "gray-agu-2025",
+    "title": "Representing Uncertainty in Extreme Precipitation Using a WRF Ensemble",
+    "authors": [
+      "Kevin T. Gray",
+      "Francina Dominguez"
+    ],
+    "year": 2025,
+    "sort_date": "2025-12",
+    "display_category": "presentations",
+    "venue": "AGU Annual Meeting, New Orleans, LA; A43I-05",
+    "url": null,
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": false,
+    "metadata_source": "Project-team supplied presentation citation"
+  },
+  {
+    "id": "putri-seminar-2025",
+    "title": "Meteorological Causes and Atmospheric Conditions Associated with Extreme Precipitation Events in Southeast Michigan",
+    "authors": [
+      "Deffi Putri"
+    ],
+    "year": 2025,
+    "sort_date": "2025-03-04",
+    "display_category": "presentations",
+    "venue": "CliMAS Research Seminar, University of Illinois Urbana-Champaign",
+    "url": "https://calendars.illinois.edu/detail/7604?eventId=33505805",
+    "article_type": "Presentation",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "link_label": "Event / program",
+    "public_metadata_verified": true,
+    "metadata_source": "https://calendars.illinois.edu/detail/7604?eventId=33505805"
+  },
+  {
+    "id": "urban-sensor-code",
+    "title": "Urban-Sensor: Code and Simulation Data",
+    "authors": [
+      "Vinh Ngoc Tran"
+    ],
+    "year": 2026,
+    "sort_date": "2026",
+    "display_category": "products",
+    "venue": "GitHub",
+    "url": "https://github.com/vinhngoctran/Urban-Sensor",
+    "article_type": "Digital resource",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "public_note": "Companion resources for the 2026 urban monitoring and forecasting study; year refers to the associated paper.",
+    "resources": [
+      {
+        "label": "Associated paper",
+        "url": "https://doi.org/10.1016/j.jhydrol.2026.135520"
+      }
+    ]
+  },
+  {
+    "id": "camelsh-resources",
+    "title": "CAMELSH: Data and Code",
+    "authors": [
+      "Vinh Ngoc Tran and collaborators"
+    ],
+    "year": 2025,
+    "sort_date": "2025",
+    "display_category": "products",
+    "venue": "GitHub / Zenodo",
+    "url": "https://github.com/vinhngoctran/CAMELSH",
+    "article_type": "Digital resource",
+    "publication_group": "other_public_output",
+    "status": "public output",
+    "public_note": "Companion resources for the 2025 CAMELSH dataset paper.",
+    "resources": [
+      {
+        "label": "Observed streamflow and water levels",
+        "url": "https://doi.org/10.5281/zenodo.15413207"
+      },
+      {
+        "label": "Associated paper",
+        "url": "https://doi.org/10.1038/s41597-025-05612-6"
+      }
+    ]
   }
 ]

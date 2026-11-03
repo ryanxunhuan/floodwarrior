@@ -1,0 +1,96 @@
+[
+  {
+    "id": "boise-flood-warnings",
+    "title": "Anthropology researchers publish on Earth’s future",
+    "date": "2026-06-24",
+    "source": "Boise State News",
+    "url": "https://www.boisestate.edu/news/2026/06/24/anthropology-researchers-publish-on-earths-future/",
+    "type": "Research Coverage",
+    "featured": true
+  },
+  {
+    "id": "eos-forecasters",
+    "title": "Keeping Humans in the Loop Improves Flood Forecasting",
+    "date": "2026-05-19",
+    "source": "AGU / Eos",
+    "url": "https://eos.org/research-spotlights/keeping-humans-in-the-loop-improves-flood-forecasting",
+    "type": "Research Coverage",
+    "featured": true
+  },
+  {
+    "id": "vinh-golden-globe",
+    "title": "Vinh Ngoc Tran receives Vietnam’s 2025 Golden Globe Award",
+    "date": "2025-11-01",
+    "source": "VNU University of Science",
+    "url": "https://hus.vnu.edu.vn/tin-tuc-su-kien/tin-tuc-chung/ts-tran-ngoc-vinh-giai-thuong-qua-cau-vang-nam-2025-di-doc-viet-nam-moi-biet-dat-nuoc-minh-dep-den-the-142316",
+    "type": "Team & Awards",
+    "featured": true,
+    "note": "University profile in Vietnamese."
+  },
+  {
+    "id": "deffi-poster-award",
+    "title": "Deffi Putri earns third place for a student poster at the AMS Annual Meeting",
+    "date": "2025",
+    "source": "Illinois CliMAS",
+    "url": "https://climas.illinois.edu/directory/profile/deffip2",
+    "type": "Team & Awards"
+  },
+  {
+    "id": "snehal-defense",
+    "title": "Snehal Prabhudesai’s dissertation defense: Computing and Communicating Uncertainty",
+    "date": "2026-07-15",
+    "source": "Michigan Computer Science and Engineering",
+    "url": "https://cse.engin.umich.edu/event/computing-and-communicating-uncertainty-for-responsible-human-ai-decision-making",
+    "type": "Events & Outreach"
+  },
+  {
+    "id": "sarah-roundtable",
+    "title": "Sarah Whitaker participates in “Putting Community First When Building Resilience”",
+    "date": "2026-06-14",
+    "source": "Natural Hazards Center",
+    "url": "https://hazards.colorado.edu/workshop/2026/session/putting-community-first-when-building-resilience",
+    "type": "Events & Outreach"
+  },
+  {
+    "id": "detroit-arsenal-infrastructure-storymap-2026",
+    "title": "Detroit Arsenal: Mapping Infrastructure Systems and Risk in a Critical Defense Region",
+    "date": "2026-03-23",
+    "source": "Joseph Nigro and the Anthropology Team",
+    "url": "https://storymaps.arcgis.com/stories/55717a0331084346bf7da9a97f10edcb",
+    "type": "Events & Outreach",
+    "note": "ArcGIS StoryMap."
+  },
+  {
+    "id": "detroit-arsenal-flood-storymap-2025",
+    "title": "The Detroit Arsenal Flood: 2014 and beyond",
+    "date": "2025-10-23",
+    "source": "Joseph Nigro and the Anthropology Team",
+    "url": "https://storymaps.arcgis.com/stories/4da504723f194885ac1eeae91be0c611",
+    "type": "Events & Outreach",
+    "note": "ArcGIS StoryMap."
+  },
+  {
+    "id": "michigan-engineering-award",
+    "title": "$7.5 million to predict and communicate flood risk",
+    "date": "2023-08-17",
+    "source": "Michigan Engineering",
+    "url": "https://news.engin.umich.edu/2023/08/7-5-million-to-predict-and-communicate-flood-risk/",
+    "type": "Research Coverage"
+  },
+  {
+    "id": "michigan-news-award",
+    "title": "U-M-led team receives $7.5M to predict, communicate flood risk",
+    "date": "2023-08",
+    "source": "University of Michigan",
+    "url": "https://news.umich.edu/u-m-led-team-receives-7-5m-to-predict-communicate-flood-risk/",
+    "type": "Research Coverage"
+  },
+  {
+    "id": "dod-muri-award",
+    "title": "Fiscal Year 2023 Research Funding Awards",
+    "date": "2023-03-21",
+    "source": "Department of Defense",
+    "url": "https://www.defense.gov/News/Releases/Release/Article/3336228/fiscal-year-2023-research-funding-awards/",
+    "type": "Research Coverage"
+  }
+]

@@ -26,21 +26,34 @@ Internal paths support the `/floodwarrior/` project URL.
   has a public university email link. Each team uses one continuous grid, ordered by position category and surname,
   with current members before alumni. Alumni retain their project role with an
   “(Alumni)” label and a subsequent position where verified or supplied by the PI.
-- `publications.html`: 22 public records, with search and status filters.
-  The bibliography has 13 published records, 6 preprints, and 3 other outputs, including Whitaker et al. (2026) in Human Organization.
-  Manuscripts without confirmed public citations remain for a later update.
+- `publications.html`: 39 records in six categories, newest first within each.
+  Search covers titles, authors, venues, dates, and DOI; a type filter limits the
+  visible categories. Full citations and resource links expand within each row.
+- `news.html`: the complete news archive, grouped by year. The homepage displays
+  three selected stories in compact rows and links to the archive.
+- `data/publications.json` and `data/news.json`: edit these records, then run
+  `python3 scripts/render_catalog.py` to regenerate the catalog, news archive,
+  and homepage news selection. Existing publication anchors are preserved.
+  `sort_date` and news `date` use YYYY, YYYY-MM, or YYYY-MM-DD, preserving known
+  precision. Dates mean first online publication, first preprint posting, or
+  event date; unspecified months/days follow dated entries within that year.
+  Citation years may differ from online publication dates. Software companion
+  entries use the associated paper year, as stated in their expanded details.
+  `featured: true` selects homepage news. Keep that selection to three items.
+  Presentation and project-report citations supplied by the project team may
+  have no public file link. Raw reports are never published.
 - `credits.html`: the website’s public attribution page, linked from every footer,
   with sources for the photographs, logos, portraits, and figures. The separate
   illustrated source-and-permissions review stays outside this website.
 - `assets/styles.css`: typography and responsive page layouts.
 - `assets/site.js`: Research dropdown dismissal. The menu works without it.
-- `assets/bibliography.js`: optional bibliography search and status filters.
+- `assets/bibliography.js`: optional bibliography search and category filters.
 - `data/`: public metadata corresponding to the displayed content.
 
 Text can be edited directly in the HTML files through GitHub's browser editor.
-Use a branch and pull request when suggesting changes for review. The JSON files
-are reference metadata; changes there do not automatically regenerate the HTML.
-Keep repeated navigation and footer wording consistent across the ten pages.
+Use a branch and pull request when suggesting changes for review. Run the catalog renderer after editing publication or news JSON. Team JSON remains
+reference metadata and does not automatically regenerate the Team page.
+Keep repeated navigation and footer wording consistent across all pages.
 
 Uploading a portrait adds the image file but does not display it on the Team
 page automatically. After uploading to `assets/people/`, update the member's
