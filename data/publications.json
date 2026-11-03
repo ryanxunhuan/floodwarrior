@@ -835,6 +835,7 @@
     "id": "huan-jmm-2026",
     "title": "Optimal-Stopping for Bayesian Sequential Experimental Design",
     "authors": [
+      "Chen Cheng",
       "Xun Huan"
     ],
     "year": 2026,
@@ -847,7 +848,7 @@
     "status": "public output",
     "link_label": "Event / program",
     "public_metadata_verified": false,
-    "metadata_source": "Project-team supplied presentation citation"
+    "metadata_source": "Project-team supplied presentation citation; author list corrected by the project PI"
   },
   {
     "id": "coons-siam-2026",
@@ -951,6 +952,10 @@
     "id": "huan-aescape-2026",
     "title": "Goal-oriented Bayesian experimental design for prediction and design under uncertainty",
     "authors": [
+      "Caleb Dahlke",
+      "Shijie Zhong",
+      "Wanggang Shen",
+      "Tommie Catanach",
       "Xun Huan"
     ],
     "year": 2026,
@@ -963,7 +968,7 @@
     "status": "public output",
     "link_label": "Event / program",
     "public_metadata_verified": false,
-    "metadata_source": "Project-team supplied presentation citation"
+    "metadata_source": "Project-team supplied presentation citation; author list corrected by the project PI"
   },
   {
     "id": "gray-agu-2025",
