@@ -1,0 +1,47 @@
+/* Atmospheric Science figures and the homepage animation. */
+.animated-preview{position:relative}
+.animated-preview picture{display:block;width:100%;height:100%}
+.animation-toggle{position:absolute;right:9px;bottom:9px;border:1px solid var(--line);background:#fff;color:var(--ink);font-size:14px;line-height:1.4;padding:5px 9px;cursor:pointer}
+.animation-toggle:hover{color:var(--blue);border-color:var(--blue)}
+.animation-toggle:focus-visible,.forecast-switch button:focus-visible{outline:3px solid #cf8b28;outline-offset:4px}
+.atmospheric-content{padding-top:38px}
+.atmospheric-block+.atmospheric-block{border-top:1px solid var(--line);margin-top:42px;padding-top:36px}
+.atmospheric-block h2{font-size:36px;margin-bottom:20px}
+.atmospheric-block>p,.atmospheric-intro p{max-width:1050px;color:var(--muted)}
+.atmospheric-intro p+p{margin-top:18px}
+.forecast-switch{display:flex;gap:26px;margin:25px 0 20px;border-bottom:1px solid var(--line)}
+.forecast-switch button{font-size:21px;font-weight:500;border:0;border-bottom:3px solid transparent;color:var(--muted);background:none;padding:0 0 10px;cursor:pointer}
+.forecast-switch button[aria-pressed=true]{color:var(--blue);border-bottom-color:var(--blue)}
+.forecast-panel{margin-top:24px}
+.forecast-panel-heading{font-size:27px;margin-bottom:22px}
+.forecast-switch:not([hidden])~.forecast-panel .forecast-panel-heading{display:none}
+.ensemble-map-grid{max-width:1040px;margin:0 auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:25px 38px}
+.map-with-scale{display:grid;grid-template-columns:minmax(0,1fr) 42px;gap:8px;align-items:center}
+.map-with-scale>a{display:block;min-width:0}
+.map-with-scale img{display:block;width:100%;height:auto}
+.map-with-scale .map-scale{width:100%;height:auto;max-height:85%;object-fit:contain}
+.ensemble-map-grid figcaption{font-size:17px;line-height:1.5;color:var(--muted);margin-top:8px}
+.atmospheric-page .figure-caption{font-size:17px;line-height:1.6;color:var(--muted);margin-top:14px}
+.rainfall-comparison{display:grid;grid-template-columns:1.25fr 1fr;gap:38px;align-items:start}
+.rainfall-comparison figure>a{display:block}
+.rainfall-comparison figure img{display:block;width:100%;height:auto}
+.rainfall-comparison figcaption{font-size:17px;line-height:1.6;color:var(--muted);margin-top:12px}
+.rainfall-comparison p{font-size:21px;color:var(--muted)}
+.rainfall-key{display:grid;grid-template-columns:135px 1fr;gap:13px 16px;font-size:17px;line-height:1.5;margin:24px 0 0}
+.rainfall-key dt{font-weight:600}
+.rainfall-key dd{margin:0;color:var(--muted)}
+.percentile-map-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin-top:28px}
+.percentile-map-grid h3{font-size:23px;margin-bottom:16px}
+.percentile-map-grid .map-with-scale{grid-template-columns:minmax(0,1fr) 30px;gap:5px}
+.weather-resource-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:38px}
+.weather-resource-grid h3{font-size:27px;line-height:1.35;margin-bottom:16px}
+.weather-resource-grid h3 a{text-decoration:none}
+.weather-resource-grid h3 a:hover{text-decoration:underline}
+.weather-resource-grid article>p:not(.figure-caption){font-size:20px;color:var(--muted);margin-bottom:22px}
+.weather-resource-grid article>a:not(.text-link){display:block}
+.weather-resource-grid img{display:block;width:100%;height:auto;border:1px solid var(--line)}
+.weather-resource-grid .text-link{margin-top:12px}
+.atmospheric-source{font-size:16px;color:var(--muted);margin-top:28px}
+.atmospheric-page .research-team-people{border-top:1px solid var(--line);padding-top:36px;margin:36px 0}
+@media(max-width:1000px){.rainfall-comparison{grid-template-columns:1fr}.rainfall-comparison figure{max-width:762px}.rainfall-key{grid-template-columns:160px 1fr}.ensemble-map-grid{gap:24px}.map-with-scale{grid-template-columns:minmax(0,1fr) 36px}.percentile-map-grid{gap:15px}}
+@media(max-width:680px){.atmospheric-content{padding-top:28px}.atmospheric-block h2{font-size:30px}.atmospheric-block+.atmospheric-block{margin-top:30px;padding-top:28px}.forecast-switch{gap:22px}.forecast-switch button{font-size:18px}.ensemble-map-grid{grid-template-columns:1fr;gap:25px}.map-with-scale{grid-template-columns:minmax(0,1fr) 34px;gap:5px}.rainfall-comparison{gap:24px}.rainfall-key{grid-template-columns:115px 1fr;gap:14px 12px;font-size:16px}.percentile-map-grid{grid-template-columns:1fr;gap:28px}.percentile-map-grid h3{font-size:23px;margin-bottom:12px}.percentile-map-grid .map-with-scale{grid-template-columns:minmax(0,1fr) 34px}.weather-resource-grid{grid-template-columns:1fr;gap:32px}.weather-resource-grid h3{font-size:25px}.atmospheric-page .figure-caption,.rainfall-comparison figcaption{font-size:16px}}

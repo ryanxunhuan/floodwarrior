@@ -51,6 +51,9 @@ Internal paths support the `/floodwarrior/` project URL.
   with sources for the photographs, logos, portraits, and figures. The separate
   illustrated source-and-permissions review stays outside this website.
 - `assets/styles.css`: typography and responsive page layouts.
+- `assets/atmospheric.css` and `assets/atmospheric.js`: Atmospheric Science figure layouts,
+  radar/rainfall view selection, and homepage animation playback. Reduced-motion
+  preferences show a still image; the animation can be played or stopped.
 - `assets/site.js`: Research dropdown dismissal. The menu works without it.
 - `assets/bibliography.js`: optional bibliography search and category filters.
 - `data/`: public metadata corresponding to the displayed content.
@@ -91,6 +94,11 @@ this repository and its history. The draft contains only the selected web
 assets and content requested by the user.
 
 The March 2026 meeting materials supply five team figures and 14 team portraits.
+The November 2026 Atmospheric Science website-update slides supply the homepage
+radar animation, the Hurricane Beryl case study, and two forecast-viewer examples.
+These assets are in `assets/research/atmospheric/`. The animated WebP is a lossless
+conversion of the supplied GIF, preserving all 37 frames and their timing; the
+original GIF is the fallback. Scientific PNGs are extracted without alteration.
 The UQ figure is the unaltered left panel of Figure 8 from Cheng et al.,
 arXiv:2608.21182v1, downloaded from its public HTML source. Its version-specific
 credit links to the full figure; arXiv hosting is not a general open reuse license.
